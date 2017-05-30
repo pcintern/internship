@@ -1,4 +1,4 @@
-//given adjacency matrix(GRAPH) to find strongly connected component  
+//given adjacency matrix(GRAPH) to find strongly connected 
 
 #include<stdio.h>
 #include<malloc.h>
